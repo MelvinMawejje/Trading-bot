@@ -1,0 +1,6 @@
+If your intreseted in trading this will work
+Because we cannnot look at the screen full-time, we hve to get innovative so that we can easily make some passive income
+if you incoporate the files Supertrend.mq5 and my personal bot called MelvoBot.mq5, you can easily make money from the bot ...
+use them as the Expert Advisor in your Meta tradder platform and monitor it
+It runs from 13:00 to 18:00 GMT 
+ENJOY.....
